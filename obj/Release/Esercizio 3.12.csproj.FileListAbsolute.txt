@@ -1,0 +1,15 @@
+H:\esrciziario 404\Esercizio 3.12\Esercizio 3.12\bin\Release\Esercizio 3.12.exe.config
+H:\esrciziario 404\Esercizio 3.12\Esercizio 3.12\bin\Release\Esercizio 3.12.exe.manifest
+H:\esrciziario 404\Esercizio 3.12\Esercizio 3.12\bin\Release\Esercizio 3.12.application
+H:\esrciziario 404\Esercizio 3.12\Esercizio 3.12\bin\Release\Esercizio 3.12.exe
+H:\esrciziario 404\Esercizio 3.12\Esercizio 3.12\bin\Release\Esercizio 3.12.pdb
+H:\esrciziario 404\Esercizio 3.12\Esercizio 3.12\obj\Release\Esercizio 3.12.csproj.AssemblyReference.cache
+H:\esrciziario 404\Esercizio 3.12\Esercizio 3.12\obj\Release\Esercizio 3.12.csproj.SuggestedBindingRedirects.cache
+H:\esrciziario 404\Esercizio 3.12\Esercizio 3.12\obj\Release\Esercizio_3._12.Form1.resources
+H:\esrciziario 404\Esercizio 3.12\Esercizio 3.12\obj\Release\Esercizio_3._12.Properties.Resources.resources
+H:\esrciziario 404\Esercizio 3.12\Esercizio 3.12\obj\Release\Esercizio 3.12.csproj.GenerateResource.cache
+H:\esrciziario 404\Esercizio 3.12\Esercizio 3.12\obj\Release\Esercizio 3.12.csproj.CoreCompileInputs.cache
+H:\esrciziario 404\Esercizio 3.12\Esercizio 3.12\obj\Release\Esercizio 3.12.exe.manifest
+H:\esrciziario 404\Esercizio 3.12\Esercizio 3.12\obj\Release\Esercizio 3.12.application
+H:\esrciziario 404\Esercizio 3.12\Esercizio 3.12\obj\Release\Esercizio 3.12.exe
+H:\esrciziario 404\Esercizio 3.12\Esercizio 3.12\obj\Release\Esercizio 3.12.pdb
